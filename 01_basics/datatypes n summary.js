@@ -14,7 +14,9 @@ console.log(id === anotherId); // false, symbols are unique
 //const bigNumber = BigInt(1234567890123456789012345678901234567890n);
 
 REFERENCE (NON 
-        RIMITIVE DATA TYPE)
+        
+    
+    RIMITIVE DATA TYPE)
 // Object, Array, Function, Date, RegExp, Map, Set 
 
 
@@ -32,3 +34,5 @@ const myFunction = function() {
 }  
 
 console.loglog(typeof bigNumber); // "bigint"
+
+// +*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*
