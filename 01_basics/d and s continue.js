@@ -1,5 +1,5 @@
 // memory
-// Stack(Primitive) isme copy milegi, Heap(Non Primitive) isme original value mein change hohgao
+// Stack(Primitive) isme copy milegi, Heap(Non Primitive) isme original value mein change hoga
 
 
 let myYoutubename = "Pranjaldotcom"
@@ -17,3 +17,5 @@ let userOne = {
 let userTwo = userOne
 
 userTwo.email = "hitesh@google.com"
+console.log(userOne.email); 
+console.log(userTwo.email);
